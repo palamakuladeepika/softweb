@@ -142,7 +142,7 @@ Publish the website in the given URL.
     <div class="banner">
       <br />
       <div class="navbar">
-        <h1 class="logo"><span>INFINITY </span>SOUNDS</h1>
+        <h1 class="logo"><span>INFINITY </span>NEXUS</h1>
         <ul>
           <li><a href="home.html"> Home </a></li>
           <li><a href="products.html"> Products </a></li>
@@ -157,7 +157,7 @@ Publish the website in the given URL.
       <div class="content">
         <div class="text">
           <h3>
-            Discover the Symphony Within: Your Ultimate Musical Destination
+            Unlock Limitless Possibilities with Infinity: Your Gateway to Innovation and Beyond.
           </h3>
           <br />
 
@@ -170,6 +170,7 @@ Publish the website in the given URL.
     </footer>
   </body>
 </html>
+
 ```
 
 ### Products Page:
@@ -301,7 +302,7 @@ Publish the website in the given URL.
 <div class="banner">
     <br />
     <div class="navbar">
-        <h1 class="logo"><span>INFINITY </span>SOUNDS</h1>
+        <h1 class="logo"><span>INFINITY </span>NEXUS</h1>
         <ul>
             <li><a href="home.html"> Home </a></li>
             <li><a href="products.html" class="bg-product"> Products </a></li>
@@ -316,45 +317,46 @@ Publish the website in the given URL.
     <div class="container">
         <div class="box-container">
             <div class="box">
-                <img src="img1.jpg" alt="Trumpet">
-                <h3>TRUMPET</h3>
+                <img src="img1.jpg" alt="C-PLUS-PLUS">
+                <h3>C++</h3>
             </div>
             <div class="box">
-                <img src="img2.jpg" alt="Acoustic">
-                <h3>ACOUSTIC GUITAR</h3>
+                <img src="img2.jpg" alt="C">
+                <h3>C</h3>
             </div>
             <div class="box">
-                <img src="img3.jpg" alt="Piano">
-                <h3>PIANO</h3>
+                <img src="img3.jpg" alt="C-SHARP">
+                <h3>C-SHARP</h3>
             </div>
             <div class="box">
-                <img src="img4.jpg" alt="Flute">
-                <h3>FLUTE</h3>
+                <img src="img4.jpg" alt="PYTHON">
+                <h3>PYTHON</h3>
             </div>
             <div class="box">
-                <img src="img5.jpg" alt="Violin">
-                <h3>VIOLIN</h3>
+                <img src="img5.jpg" alt="JAVA">
+                <h3>JAVA</h3>
             </div>
             <div class="box">
-                <img src="img6.jpg" alt="Harp">
-                <h3>HARP</h3>
+                <img src="img6.jpg" alt="MY-SQL">
+                <h3>MY-SQL</h3>
             </div>
             <div class="box">
                 <img src="img7.jpg" alt="Kylophone">
-                <h3>XYLOPHONE</h3>
+                <h3>ANDROID</h3>
             </div>
             <div class="box">
                 <img src="img8.jpg" alt="Drums">
-                <h3>DRUMS</h3>
+                <h3>REACT.JS</h3>
             </div>
             <div class="box">
                 <img src="img9.jpg" alt="DJ set">
-                <h3>DJ SET</h3>
+                <h3>JAVASCRIPT</h3>
             </div>
             <div class="box">
                 <img src="img10.jpg" alt="Veena">
-                <h3>VEENA</h3>
+                <h3>HTML</h3>
             </div>
+            <!-- Repeat the above box structure for other products -->
         </div>
     </div>
 </div>
@@ -363,6 +365,7 @@ Publish the website in the given URL.
 </footer>
 </body>
 </html>
+
 ```
 
 ### People Page:
@@ -483,7 +486,7 @@ Publish the website in the given URL.
     <div class="banner">
       <br />
       <div class="navbar">
-        <h1 class="logo"><span>INFINITY </span>SOUNDS</h1>
+        <h1 class="logo"><span>INFINITY </span>NEXUS</h1>
         <ul>
           <li><a href="home.html"> Home </a></li>
           <li><a href="products.html"> Products </a></li>
@@ -663,7 +666,7 @@ Publish the website in the given URL.
 <div class="banner">
     <br />
     <div class="navbar">
-        <h1 class="logo"><span>INFINITY </span>SOUNDS</h1>
+        <h1 class="logo"><span>INFINITY </span>NEXUS</h1>
         <ul>
             <li><a href="home.html"> Home </a></li>
             <li><a href="products.html"> Products </a></li>
@@ -691,6 +694,7 @@ Publish the website in the given URL.
 </footer>
 </body>
 </html>
+
 ```
 ## OUTPUT:
 ### Home Page:
