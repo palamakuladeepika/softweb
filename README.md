@@ -360,7 +360,7 @@ Publish the website in the given URL.
     </div>
 </div>
 <footer>
-    <center>Designed and Developed by <b>B.Mahalakshmi (212221240008)</b></center>
+    <center>Designed and Developed by <b>P Deepika (212221240035)</b></center>
 </footer>
 </body>
 </html>
@@ -530,7 +530,7 @@ Publish the website in the given URL.
       </div>
     </div>
     <footer>
-      <center>Designed and Developed by <b>B.Mahalakshmi (212221240008)</b></center>
+      <center>Designed and Developed by <b>P Deepika</b></center>
     </footer>
   </body>
 </html>
@@ -689,7 +689,7 @@ Publish the website in the given URL.
     </div>
 </div>
 <footer>
-    <center>Designed and Developed by <b>B.mahalakshmi (212221240008)</b></center>
+    <center>Designed and Developed by <b>P deepika</b></center>
 </footer>
 </body>
 </html>
