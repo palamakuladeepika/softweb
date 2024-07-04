@@ -698,16 +698,13 @@ Publish the website in the given URL.
 ```
 ## OUTPUT:
 ### Home Page:
-![alt text](home.jpg)
+<img width="1440" alt="Screenshot 2024-07-04 at 3 10 59 PM" src="https://github.com/Mahalakshmibalireddy21003680/softweb/assets/93427286/7cefcdc1-3738-40ac-84c0-a0a8e1bf2bdc">
 
 ### Product Page:
-![alt text](products.jpg)
-
-### People Page:
-![alt text](people.jpg)
+<img width="1440" alt="Screenshot 2024-07-04 at 3 11 44 PM" src="https://github.com/Mahalakshmibalireddy21003680/softweb/assets/93427286/cc41bcb1-9bbf-446c-be75-6762a6cd7fe4">
 
 ### Contact Page:
-![alt text](contact.jpg)
+<img width="1440" alt="Screenshot 2024-07-04 at 3 12 13 PM" src="https://github.com/Mahalakshmibalireddy21003680/softweb/assets/93427286/b8cdd8f0-93ad-47c1-9a99-3128af8e82e3">
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
