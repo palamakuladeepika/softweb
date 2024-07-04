@@ -1,5 +1,4 @@
 # Software Website
-## Date: 20/04/2024
 
 ## AIM:
 To develop a static company website to display the softwares and services provided by the company.
